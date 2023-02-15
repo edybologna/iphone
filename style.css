@@ -36,7 +36,7 @@ body{
     border: 10px solid #000;
     display: flex;
     justify-content: center;
-    opacity: 0;
+    opacity: 1;
     transition: 0.5s;
 }
 .box:hover .inner{
@@ -249,5 +249,6 @@ body{
 
 .island-popup.active .content audio{
     display: block;
+    
 }
 
