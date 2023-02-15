@@ -33,7 +33,7 @@ body{
     background-position: center;
     background-size: cover;
     border-radius: 48px;
-    border: 10px solid #000;
+    border: 10px solid #2d1212;
     display: flex;
     justify-content: center;
     opacity: 1;
@@ -202,7 +202,7 @@ body{
 }
 .details .details-text h3,
 .details .details-text p{
-    color: #fff;
+    color: #1daf10;
     cursor: default;
     visibility: hidden;
     opacity: 0;
